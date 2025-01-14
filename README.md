@@ -13,7 +13,7 @@ RESTful API to simulate simple banking operations.
 1. Checkout the project from GitHub
 
 ```
-git clone https://github.com/anandhu1202/Bankify
+git clone https://github.com/anandhu1202/Bankify.git
 
 ```
 2. Enable Lombok support on your IDE
